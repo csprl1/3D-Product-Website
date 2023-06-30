@@ -19,10 +19,14 @@ Throughout the Project,I also acquire practical knowledge on the following topic
 
 
 Conclusion<br>
-I have developed a stunning 3D product website using Three.js, React Three Fiber, TailwindCSS, and Framer Motion. I have also have gained valuable insights into incorporating artificial intelligence to enhance the user experience.<br>
+I have developed a stunning 3D product website using Three.js, React Three Fiber, TailwindCSS, and Framer Motion. I have also have gained valuable insights into incorporating artificial intelligence to enhance the user experience.<br><br>
+
+Screenshot<br>
+
+<img width="1512" alt="Screenshot 2023-06-30 at 7 52 50 PM" src="https://github.com/csprl1/3D-Product-Website/assets/53507128/ba3646b4-0173-49a6-9491-42dbc2a628c7">
 
 
-
+<img width="1512" alt="Screenshot 2023-06-30 at 7 53 22 PM" src="https://github.com/csprl1/3D-Product-Website/assets/53507128/7d43584f-a398-4915-91ee-6fb9d1056400">
 
 
 
